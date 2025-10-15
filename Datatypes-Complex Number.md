@@ -16,10 +16,15 @@ To write a Python program that reads two integers, creates a complex number usin
 Add Code Here
 
 x=int(input(''))
+
 y=int(input(''))
+
 x=complex(x,y)
+
 print(x)
+
 print(x.real)
+
 print(x.imag)
 
 ## Output
